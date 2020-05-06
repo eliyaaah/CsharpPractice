@@ -1,2 +1,2 @@
 # C# Practice
-Practicing Data Structures and Algorithm implementations in C#
+Practicing Data Structures and Algorithms implementations in C#
