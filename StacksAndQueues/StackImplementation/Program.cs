@@ -82,6 +82,8 @@ namespace StackImplementation
             myStack.Push(20);
             myStack.Push(30);
             myStack.Push(40);
+            myStack.Pop();
+            myStack.Pop();
             myStack.PrintStack();
             myStack.Peek();
             Console.WriteLine("Item popped from Stack : {0}", myStack.Pop());
